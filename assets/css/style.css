@@ -20,11 +20,11 @@
     align-items: center;
 }
 
-.block__inside--float-left {
+.--float-left {
     float: left;
 }
 
-.block__inside--float-right {
+.--float-right {
     float: right;
 }
 
